@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
 if game.PlaceId == 155615604 then
-	local Window = Library.CreateLib("Grape Hub (Prison Life)", "GrapeTheme")
+	local Window = Library.CreateLib("Grape Hub (Prison Life - 155615604)", "GrapeTheme")
 
 	local Info = Window:NewTab("Info")
 	local InfoSection = Info:NewSection("Info")
@@ -174,9 +174,9 @@ if game.PlaceId == 155615604 then
 		workspace.Remote.TeamEvent:FireServer("Medium stone gray")
 	end)
 
-	elseif game.PlaceId == 6884319169 then
+	elseif game.PlaceId == 6512923934 then
 	
-	local Window = Library.CreateLib("Grape Hub (BABFT)", "GrapeTheme")
+	local Window = Library.CreateLib("Grape Hub (Ultra Clickers Simulator - 6512923934)", "GrapeTheme")
 
 	local Info = Window:NewTab("Info")
 	local InfoSection = Info:NewSection("Info")
